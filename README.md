@@ -1,1 +1,1 @@
-Miyudzaki universe
+Open source sandbox project
